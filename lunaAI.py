@@ -1,4 +1,4 @@
-#lunaAI
+#lunaAI therapist chatbot.
 import random
 
 # Predefined responses based on keywords
